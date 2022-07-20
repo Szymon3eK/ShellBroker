@@ -3,3 +3,4 @@
 
 How to install?
  - pip3 install -r req.txt
+ - python3 index.py
